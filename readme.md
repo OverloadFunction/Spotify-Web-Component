@@ -1,4 +1,4 @@
-# Project Title
+# Spotify Web Component
 
 Spotify Music Component | v1.0.0
 
